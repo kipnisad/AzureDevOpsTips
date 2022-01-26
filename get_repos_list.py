@@ -1,6 +1,5 @@
 import requests
 from base64 import b64encode
-import pandas as pd
 
 # Please set actual Personal Autentication Token
 pat = "***"
